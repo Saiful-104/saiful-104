@@ -14,24 +14,59 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🧑‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 👤 Who I Am
+```
+🏢  Lurinaxo Inc — Full Stack Developer
+📍  Sylhet, Bangladesh 🇧🇩
+🌱  Exploring: Next.js & TypeScript
+🎯  Goal: Build impactful products
+⚽  Huge Messi fan 🐐
+```
+
+### 🚀 Currently Building
+> **MediSync — Family Medicine Manager**
+> Full-stack production platform targeting
+> Bangladesh & India healthcare market
+
+### 📬 Reach Me
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiful7745islam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=netlify&logoColor=white)](https://legendary-malasada-1f1cd3.netlify.app/)
+
+</td>
+<td valign="top" width="50%">
+
+### 💻 about.ts
 ```typescript
 const saiful = {
-  role: "Full Stack Developer",
-  company: "Lurinaxo Inc 🚀",
+  role    : "Full Stack Developer",
+  company : "Lurinaxo Inc 🚀",
   location: "Sylhet, Bangladesh 🇧🇩",
-  currentlyExploring: ["Next.js", "TypeScript"],
-  building: "MediSync — Family Medicine Manager",
-  passions: ["Clean Code", "DSA", "Football ⚽"],
-  goal: "Build products that matter",
-  funFact: "Huge Messi fan 🐐"
+  exploring: [
+    "Next.js",
+    "TypeScript",
+  ],
+  skills: [
+    "React", "Node.js",
+    "PostgreSQL", "DSA",
+  ],
+  passions: [
+    "Clean Code",
+    "Football ⚽",
+    "Messi fan 🐐",
+  ],
+  goal: "Build impactful products",
 };
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
