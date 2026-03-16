@@ -16,18 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const saiful = {
-  role      : "Full Stack Developer",
-  company   : "Lurinaxo Inc 🚀",
-  location  : "Sylhet, Bangladesh 🇧🇩",
-  exploring : ["Next.js", "TypeScript"],
-  skills    : ["React", "Node.js", "PostgreSQL", "DSA"],
-  building  : "MediSync — Family Medicine Manager",
-  passions  : ["Clean Code", "Football ⚽", "Messi fan 🐐"],
-  goal      : "Build impactful products 🎯",
-};
-```
+
 
 <br/>
 
